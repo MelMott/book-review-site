@@ -1,0 +1,22 @@
+body {
+    background-color: powderblue;
+    font-family: "Lucida Console", "Courier New", monospace;
+    }
+.italic {
+        font-style: italic;
+    }
+h1 {
+    color: rgb(0, 255, 68);
+    }
+h {
+    color:blueviolet;
+}
+p {
+    color: brown;
+    }
+section{
+    background-color: blanchedalmond;
+}
+ul {
+    list-style-type: none;
+}
